@@ -1,4 +1,4 @@
-## Hi there, I'm Bertrand Gwynfory Iskandar 👋
+## Hi there, I'm Bertrand Gwynfory Iskandar 😊
 
 <div align="left" style="display: flex; align-items: flex-start;">
     <div style="margin-right: 20px;">
